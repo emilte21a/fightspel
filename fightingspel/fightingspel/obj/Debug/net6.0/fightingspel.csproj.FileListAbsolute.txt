@@ -1,0 +1,15 @@
+C:\Users\emil.ulinjohansson\pragermerin\fightspel\fightingspel\fightingspel\bin\Debug\net6.0\fightingspel.exe
+C:\Users\emil.ulinjohansson\pragermerin\fightspel\fightingspel\fightingspel\bin\Debug\net6.0\fightingspel.deps.json
+C:\Users\emil.ulinjohansson\pragermerin\fightspel\fightingspel\fightingspel\bin\Debug\net6.0\fightingspel.runtimeconfig.json
+C:\Users\emil.ulinjohansson\pragermerin\fightspel\fightingspel\fightingspel\bin\Debug\net6.0\fightingspel.dll
+C:\Users\emil.ulinjohansson\pragermerin\fightspel\fightingspel\fightingspel\bin\Debug\net6.0\fightingspel.pdb
+C:\Users\emil.ulinjohansson\pragermerin\fightspel\fightingspel\fightingspel\obj\Debug\net6.0\fightingspel.csproj.AssemblyReference.cache
+C:\Users\emil.ulinjohansson\pragermerin\fightspel\fightingspel\fightingspel\obj\Debug\net6.0\fightingspel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil.ulinjohansson\pragermerin\fightspel\fightingspel\fightingspel\obj\Debug\net6.0\fightingspel.AssemblyInfoInputs.cache
+C:\Users\emil.ulinjohansson\pragermerin\fightspel\fightingspel\fightingspel\obj\Debug\net6.0\fightingspel.AssemblyInfo.cs
+C:\Users\emil.ulinjohansson\pragermerin\fightspel\fightingspel\fightingspel\obj\Debug\net6.0\fightingspel.csproj.CoreCompileInputs.cache
+C:\Users\emil.ulinjohansson\pragermerin\fightspel\fightingspel\fightingspel\obj\Debug\net6.0\fightingspel.dll
+C:\Users\emil.ulinjohansson\pragermerin\fightspel\fightingspel\fightingspel\obj\Debug\net6.0\refint\fightingspel.dll
+C:\Users\emil.ulinjohansson\pragermerin\fightspel\fightingspel\fightingspel\obj\Debug\net6.0\fightingspel.pdb
+C:\Users\emil.ulinjohansson\pragermerin\fightspel\fightingspel\fightingspel\obj\Debug\net6.0\fightingspel.genruntimeconfig.cache
+C:\Users\emil.ulinjohansson\pragermerin\fightspel\fightingspel\fightingspel\obj\Debug\net6.0\ref\fightingspel.dll
