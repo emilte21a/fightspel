@@ -13,7 +13,10 @@ static void startvar()
 
     Console.WriteLine("Välj ditt namn");
     p1 = Console.ReadLine();
-    
+    while (p1.Length < 2 || p1.Length > 10){
+        Console.WriteLine("Ditt namn måste ha 2-10 bokstäver");
+        p1 = Console.ReadLine();
+    }
 
     Console.Clear();
     Console.WriteLine("Du kommer att få en slumpmässig motståndare!");
