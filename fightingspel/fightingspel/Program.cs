@@ -261,6 +261,14 @@ static void fight(int hp1, int hp2, int aktivspelare, string p1, int spel2, stri
 
 }
 
+Console.WriteLine(@" _____                                         _____         _______ _            _____             _    
+  / ____|                                       |_   _|       |__   __| |          |  __ \           | |   
+ | (___   ___  _ __ ___   ___  ___  _ __   ___    | |  _ __      | |  | |__   ___  | |  | | __ _ _ __| | __
+  \___ \ / _ \| '_ ` _ \ / _ \/ _ \| '_ \ / _ \   | | | '_ \     | |  | '_ \ / _ \ | |  | |/ _` | '__| |/ /
+  ____) | (_) | | | | | |  __/ (_) | | | |  __/  _| |_| | | |    | |  | | | |  __/ | |__| | (_| | |  |   < 
+ |_____/ \___/|_| |_| |_|\___|\___/|_| |_|\___| |_____|_| |_|    |_|  |_| |_|\___| |_____/ \__,_|_|  |_|\_\");
+Console.WriteLine("");
+
 Console.WriteLine("Hej och välkommen till 'någon är i huset'");
 Console.WriteLine("Är du redo att starta?");
 
